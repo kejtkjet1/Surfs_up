@@ -32,6 +32,6 @@ December Temperature
 
 ## Summary
 
-- The weather data for June and December suggests that Hawaii has a moderate climate whre temperatures remain high enough to keep the ice cream business in demand year round
+- The weather data for June and December suggests that Hawaii has a moderate climate where temperatures remain high enough to keep the ice cream business in demand year round
 - An additional query that would provide more insights: weather analysis for all other months to see if perhaps the seasonality may affect the business during different months
-- We would also benefit from rainfall analysis as the heavy rain period may have nagative impact on our ice cream business investments
+- We would also benefit from rainfall analysis as the heavy rain period may have nagative impact on our ice cream business investment
